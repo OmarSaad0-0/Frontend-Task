@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "Name": "Ahmed",
+            "Email": "Ahmed@gmail.com",
+            "Phone": "01551085190",
+            "Profieciency": "lawyer"
+        },
+        {
+            "id": 2,
+            "Name": "mohamed",
+            "Email": "mohamed@gmail.com",
+            "Phone": "01551895190",
+            "Profieciency": "freelancer"
+        }
+    ]
+}
